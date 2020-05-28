@@ -1,0 +1,7 @@
+body{
+	background-color: #F4B7B7;
+}
+p, h1, h2, h3, a{
+	color: red;
+	text-align: center;
+}
