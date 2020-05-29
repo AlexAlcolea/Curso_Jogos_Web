@@ -8,3 +8,5 @@ Atividades:
 [Atividade Site Facens](https://alexalcolea.github.io/Curso_Jogos_Web/Atividade_Pagina_Facens_part1.html)
 
 [Atividade Site Facens com CSS Importado](https://alexalcolea.github.io/Curso_Jogos_Web/Atividade_Pagina_Facens_part2.html)
+
+[Atividade Animação](https://alexalcolea.github.io/Curso_Jogos_Web/Atividade_Animação.html)
